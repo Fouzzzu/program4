@@ -1,0 +1,617 @@
+*************************************
+* Xilinx XInfo System Information Report
+* XInfo log file started on: 2024/09/30 04:30:02
+*************************************
+
+
+*************************************
+* System Information:
+*************************************
+Hostname: DESKTOP-EOD6V01
+Network Interface Card ID: 04d9c85fcac1
+C: Drive Serial Number: 6c4b2ad9
+FLEXID Dongle ID: 
+Architecture: AMD64
+Platform: Windows NT
+Operating System: Windows 10 Pro
+Version: 6.3
+Current Build Number: 19045
+Service Level: Not Success
+Product ID: 00331-10000-00001-AA707
+Registered Organization: 
+Registered Owner: admin
+System Root: C:\Windows
+Architecture: AMD 64-bit based
+Processor Type: 64-bit Class
+Processor Speed: ~2496 MHz
+Processor Detail: Vendor: GenuineIntel - Family: 0 - Model: 0 - Stepping: 0
+Processor Count: 12
+Current User Name: admin
+Current User Permission: Administrator
+Available space on drive C:\ (HD - NTFS): 139.75 GB of 243.52 GB
+Available space on drive D:\ (HD - NTFS): 124.92 GB of 135.14 GB
+Physical Memory: 8096808 KB
+Available Physical Memory: 4771576 KB
+Swap File: 9407528 KB
+Available Swap File: 5503016 KB
+Total Virtual: -128 KB
+Available Virtual: -4373464 KB
+: 
+: 
+: 
+
+*************************************
+* Software Environment:
+*************************************
+Default Web Browser: "C:\Program Files\Internet Explorer\iexplore.exe" %1
+ALLUSERSPROFILE: C:\ProgramData
+APPDATA: C:\Users\admin\AppData\Roaming
+CommonProgramFiles: C:\Program Files\Common Files
+CommonProgramFiles(x86): C:\Program Files (x86)\Common Files
+CommonProgramW6432: C:\Program Files\Common Files
+COMPUTERNAME: DESKTOP-EOD6V01
+ComSpec: C:\Windows\system32\cmd.exe
+DriverData: C:\Windows\System32\Drivers\DriverData
+FPS_BROWSER_APP_PROFILE_STRING: Internet Explorer
+FPS_BROWSER_USER_PROFILE_STRING: Default
+HOMEDRIVE: C:
+HOMEPATH: \Users\admin
+LOCALAPPDATA: C:\Users\admin\AppData\Local
+LOGONSERVER: \\DESKTOP-EOD6V01
+NO_XILINX_DATA_LICENSE: HIDDEN
+NUMBER_OF_PROCESSORS: 12
+OneDrive: C:\Users\admin\OneDrive
+OS: Windows_NT
+Path: C:\Xilinx\14.7\ISE_DS\common\\lib\nt64;C:\Xilinx\14.7\ISE_DS\ISE\lib\nt64;C:\Xilinx\14.7\ISE_DS\common\\bin\nt64;C:\Xilinx\14.7\ISE_DS\ISE\bin\nt64;C:\Xilinx\14.7\ISE_DS\ISE\..\..\..\DocNav;C:\Xilinx\14.7\ISE_DS\PlanAhead\bin;C:\Xilinx\14.7\ISE_DS\EDK\bin\nt64;C:\Xilinx\14.7\ISE_DS\EDK\lib\nt64;C:\Xilinx\14.7\ISE_DS\EDK\gnu\microblaze\nt\bin;C:\Xilinx\14.7\ISE_DS\EDK\gnu\powerpc-eabi\nt\bin;C:\Xilinx\14.7\ISE_DS\EDK\gnuwin\bin;C:\Xilinx\14.7\ISE_DS\EDK\gnu\arm\nt\bin;C:\Xilinx\14.7\ISE_DS\EDK\gnu\microblaze\linux_toolchain\nt64_be\bin;C:\Xilinx\14.7\ISE_DS\EDK\gnu\microblaze\linux_toolchain\nt64_le\bin;C:\Xilinx\14.7\ISE_DS\common\bin\nt64;C:\Xilinx\14.7\ISE_DS\common\lib\nt64;C:\Program Files\Common Files\Oracle\Java\javapath;C:\oracle\product\10.2.0\db_1\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\Common Files\Acronis\SnapAPI\;C:\Program Files (x86)\Flash Magic;C:\Users\admin\AppData\Local\Microsoft\WindowsApps;C:\Program Files\mongosh\
+PATHEXT: .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+PERL5LIB: C:\oracle\product\10.2.0\db_1\perl\5.8.3\lib\MSWin32-x86;C:\oracle\product\10.2.0\db_1\perl\5.8.3\lib;C:\oracle\product\10.2.0\db_1\perl\5.8.3\lib\MSWin32-x86;C:\oracle\product\10.2.0\db_1\perl\site\5.8.3;C:\oracle\product\10.2.0\db_1\perl\site\5.8.3\lib;C:\oracle\product\10.2.0\db_1\sysman\admin\scripts;
+PROCESSOR_ARCHITECTURE: AMD64
+PROCESSOR_IDENTIFIER: Intel64 Family 6 Model 151 Stepping 5, GenuineIntel
+PROCESSOR_LEVEL: 6
+PROCESSOR_REVISION: 9705
+ProgramData: C:\ProgramData
+ProgramFiles: C:\Program Files
+ProgramFiles(x86): C:\Program Files (x86)
+ProgramW6432: C:\Program Files
+PROMPT: $P$G
+PSModulePath: C:\Program Files\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules
+PUBLIC: C:\Users\Public
+SESSIONNAME: Console
+SystemDrive: C:
+SystemRoot: C:\Windows
+TEMP: C:\Users\admin\AppData\Local\Temp
+TMP: C:\Users\admin\AppData\Local\Temp
+USERDOMAIN: DESKTOP-EOD6V01
+USERDOMAIN_ROAMINGPROFILE: DESKTOP-EOD6V01
+USERNAME: admin
+USERPROFILE: C:\Users\admin
+windir: C:\Windows
+XILINX: C:\Xilinx\14.7\ISE_DS\common\;C:\Xilinx\14.7\ISE_DS\ISE
+XILINX_DSP: C:\Xilinx\14.7\ISE_DS\ISE
+XILINX_EDK: C:\Xilinx\14.7\ISE_DS\EDK
+XILINX_PLANAHEAD: C:\Xilinx\14.7\ISE_DS\PlanAhead
+xlnxInstLocList:  common EDK PlanAhead ISE
+ZES_ENABLE_SYSMAN: 1
+
+*************************************
+* fileset.txt(s):
+*************************************
+
+*************************************
+* install.log(s):
+*************************************
+
+*************************************
+* Software Updates:
+*************************************
+No Updates to Display 
+
+*************************************
+* Tactical Patches:
+*************************************
+No Tactical Patches to Display 
+
+*************************************
+* ISE Preferences:
+*************************************
+ISE version 14.7 preferences 
+================================== 
+ModelSimBinDirUserVal 
+ModelSimExePathUserVal 
+SynplifyBinDirUserVal 
+SynplifyExePathUserVal 
+SynplifyProBinDirUserVal 
+SynplifyProExePathUserVal 
+PrecisionBinDirUserVal 
+PrecisionExePathUserVal 
+PlanAheadBinDirUserVal C:\Xilinx\14.7\ISE_DS\PlanAhead\bin
+PlanAheadExePathUserVal C:\Xilinx\14.7\ISE_DS\PlanAhead\bin\planAhead.bat
+FitterReportFormat 0
+DebugTclScriptDebugLevel 0
+Project Editor 0
+ConstEditor 2
+Custom CmdLine 
+DefaultTopLevelModuleType HDL
+DefaultSynthesisTool XST (VHDL/Verilog)
+DefaultSimulator ISim (VHDL/Verilog)
+DefaultPreferredLanguage Verilog
+DefaultPropertySpecificationProjectFile Store all values
+DefaultManualCompileOrder true
+DefaultEnableMessageFiltering true
+ 
+
+*************************************
+* License Information:
+*************************************
+Feature                    S/W or IP Core         Version Expiring    Floating or Node Locked Count     Info                                                                                  Server Name File Name                                                      Host Id Feature Index License Validity Licenses In Use Host Id Matches 
+========================== ====================== ======= =========== ======================= ========= ===================================================================================== =========== ============================================================== ======= ============= ================ =============== =============== 
+                                                                                                        No License Available                                                                              C:/.Xilinx                                                             00001                                                          
+10_100_mb_eth_mac          IP:Design_Linking      2013.06 Permanent   Nodelocked              Uncounted License_Type:Design_Linking;ipman,10_100_mb_eth_mac,ip,permanent,_0_0_0                           C:\Xilinx\14.7\ISE_DS\ISE/coregen/core_licenses\Xilinx.lic     ANY     00002         Okay                             Yes             
+can                        IP:Design_Linking      2013.06 Permanent   Nodelocked              Uncounted License_Type:Design_Linking;ipman,can,ip,permanent,_0_0_0                                         C:\Xilinx\14.7\ISE_DS\ISE/coregen/core_licenses\Xilinx.lic     ANY     00003         Okay                             Yes             
+cpri                       IP:Design_Linking      2013.06 Permanent   Nodelocked              Uncounted License_Type:Design_Linking;ipman,cpri,ip,permanent,_0_0_0                                        C:\Xilinx\14.7\ISE_DS\ISE/coregen/core_licenses\Xilinx.lic     ANY     00004         Okay                             Yes             
+displayport                IP:Design_Linking      2013.06 Permanent   Nodelocked              Uncounted License_Type:Design_Linking;ipman,displayport,ip,permanent,_0_0_0                                 C:\Xilinx\14.7\ISE_DS\ISE/coregen/core_licenses\Xilinx.lic     ANY     00005         Okay                             Yes             
+eth_avb_endpoint           IP:Design_Linking      2013.06 Permanent   Nodelocked              Uncounted License_Type:Design_Linking;ipman,eth_avb_endpoint,ip,permanent,_0_0_0                            C:\Xilinx\14.7\ISE_DS\ISE/coregen/core_licenses\Xilinx.lic     ANY     00006         Okay                             Yes             
+ethernet_statistics        IP:Design_Linking      2013.06 Permanent   Nodelocked              Uncounted License_Type:Design_Linking;ipman,ethernet_statistics,ip,permanent,_0_0_0                         C:\Xilinx\14.7\ISE_DS\ISE/coregen/core_licenses\Xilinx.lic     ANY     00007         Okay                             Yes             
+gfp_v1_3                   IP:Design_Linking      1.0     Permanent   Nodelocked              Uncounted License_Type:Design_Linking                                                                       C:\Xilinx\14.7\ISE_DS\ISE/coregen/core_licenses\Xilinx.lic     ANY     00008         Okay                             Yes             
+gfp_v2                     IP:Design_Linking      1.0     Permanent   Nodelocked              Uncounted License_Type:Design_Linking                                                                       C:\Xilinx\14.7\ISE_DS\ISE/coregen/core_licenses\Xilinx.lic     ANY     00009         Okay                             Yes             
+jesd204                    IP:Design_Linking      2013.06 Permanent   Nodelocked              Uncounted License_Type:Design_Linking;ipman,jesd204,ip,permanent,_0_0_0                                     C:\Xilinx\14.7\ISE_DS\ISE/coregen/core_licenses\Xilinx.lic     ANY     00010         Okay                             Yes             
+lte_rach_detector          IP:Design_Linking      2013.06 Permanent   Nodelocked              Uncounted License_Type:Design_Linking;ipman,lte_rach_detector,ip,permanent,_0_0_0                           C:\Xilinx\14.7\ISE_DS\ISE/coregen/core_licenses\Xilinx.lic     ANY     00011         Okay                             Yes             
+obsai                      IP:Design_Linking      2013.06 Permanent   Nodelocked              Uncounted License_Type:Design_Linking;ipman,obsai,ip,permanent,_0_0_0                                       C:\Xilinx\14.7\ISE_DS\ISE/coregen/core_licenses\Xilinx.lic     ANY     00012         Okay                             Yes             
+pci32                      IP:Design_Linking      2013.06 Permanent   Nodelocked              Uncounted License_Type:Design_Linking;ipman,pci32,ip,permanent,_0_0_0                                       C:\Xilinx\14.7\ISE_DS\ISE/coregen/core_licenses\Xilinx.lic     ANY     00013         Okay                             Yes             
+pci32_spng                 IP:Design_Linking      2013.06 Permanent   Nodelocked              Uncounted License_Type:Design_Linking;ipman,pci32_spng,ip,permanent,_0_0_0                                  C:\Xilinx\14.7\ISE_DS\ISE/coregen/core_licenses\Xilinx.lic     ANY     00014         Okay                             Yes             
+pci64                      IP:Design_Linking      2013.06 Permanent   Nodelocked              Uncounted License_Type:Design_Linking;ipman,pci64,ip,permanent,_0_0_0                                       C:\Xilinx\14.7\ISE_DS\ISE/coregen/core_licenses\Xilinx.lic     ANY     00015         Okay                             Yes             
+pci_express                IP:Design_Linking      2013.06 Permanent   Nodelocked              Uncounted License_Type:Design_Linking;ipman,pci_express,ip,permanent,_0_0_0                                 C:\Xilinx\14.7\ISE_DS\ISE/coregen/core_licenses\Xilinx.lic     ANY     00016         Okay                             Yes             
+pcie_blk_plus              IP:Design_Linking      2013.06 Permanent   Nodelocked              Uncounted License_Type:Design_Linking;ipman,pcie_blk_plus,ip,permanent,_0_0_0                               C:\Xilinx\14.7\ISE_DS\ISE/coregen/core_licenses\Xilinx.lic     ANY     00017         Okay                             Yes             
+pcie_pipe                  IP:Design_Linking      2013.06 Permanent   Nodelocked              Uncounted License_Type:Design_Linking;ipman,pcie_pipe,ip,permanent,_0_0_0                                   C:\Xilinx\14.7\ISE_DS\ISE/coregen/core_licenses\Xilinx.lic     ANY     00018         Okay                             Yes             
+pcie_pipe_v1               IP:Design_Linking      1.0     Permanent   Nodelocked              Uncounted License_Type:Design_Linking                                                                       C:\Xilinx\14.7\ISE_DS\ISE/coregen/core_licenses\Xilinx.lic     ANY     00019         Okay                             Yes             
+pcix_v6                    IP:Design_Linking      1.0     Permanent   Nodelocked              Uncounted License_Type:Design_Linking                                                                       C:\Xilinx\14.7\ISE_DS\ISE/coregen/core_licenses\Xilinx.lic     ANY     00020         Okay                             Yes             
+pl4                        IP:Design_Linking      2013.06 Permanent   Nodelocked              Uncounted License_Type:Design_Linking;ipman,pl4,ip,permanent,_0_0_0                                         C:\Xilinx\14.7\ISE_DS\ISE/coregen/core_licenses\Xilinx.lic     ANY     00021         Okay                             Yes             
+rio_log_io                 IP:Design_Linking      2013.06 Permanent   Nodelocked              Uncounted License_Type:Design_Linking;ipman,rio_log_io,ip,permanent,_0_0_0                                  C:\Xilinx\14.7\ISE_DS\ISE/coregen/core_licenses\Xilinx.lic     ANY     00022         Okay                             Yes             
+s6_pcie                    IP:Design_Linking      2013.06 Permanent   Nodelocked              Uncounted License_Type:Design_Linking;ipman,s6_pcie,ip,permanent,_0_0_0                                     C:\Xilinx\14.7\ISE_DS\ISE/coregen/core_licenses\Xilinx.lic     ANY     00023         Okay                             Yes             
+spdif                      IP:Design_Linking      2013.06 Permanent   Nodelocked              Uncounted License_Type:Design_Linking;ipman,spdif,ip,permanent,_0_0_0                                       C:\Xilinx\14.7\ISE_DS\ISE/coregen/core_licenses\Xilinx.lic     ANY     00024         Okay                             Yes             
+srio_phy                   IP:Design_Linking      2013.06 Permanent   Nodelocked              Uncounted License_Type:Design_Linking;ipman,srio_phy,ip,permanent,_0_0_0                                    C:\Xilinx\14.7\ISE_DS\ISE/coregen/core_licenses\Xilinx.lic     ANY     00025         Okay                             Yes             
+ten_gig_eth_mac            IP:Design_Linking      2013.06 Permanent   Nodelocked              Uncounted License_Type:Design_Linking;ipman,ten_gig_eth_mac,ip,permanent,_0_0_0                             C:\Xilinx\14.7\ISE_DS\ISE/coregen/core_licenses\Xilinx.lic     ANY     00026         Okay                             Yes             
+ten_gig_eth_pcs_pma_basekr IP:Design_Linking      2013.06 Permanent   Nodelocked              Uncounted License_Type:Design_Linking;ipman,ten_gig_eth_pcs_pma_basekr,ip,permanent,_0_0_0                  C:\Xilinx\14.7\ISE_DS\ISE/coregen/core_licenses\Xilinx.lic     ANY     00027         Okay                             Yes             
+ten_gig_eth_pcs_pma        IP:Design_Linking      2013.06 Permanent   Nodelocked              Uncounted License_Type:Design_Linking;ipman,ten_gig_eth_pcs_pma,ip,permanent,_0_0_0                         C:\Xilinx\14.7\ISE_DS\ISE/coregen/core_licenses\Xilinx.lic     ANY     00028         Okay                             Yes             
+tri_mode_eth_mac           IP:Design_Linking      2013.06 Permanent   Nodelocked              Uncounted License_Type:Design_Linking;ipman,tri_mode_eth_mac,ip,permanent,_0_0_0                            C:\Xilinx\14.7\ISE_DS\ISE/coregen/core_licenses\Xilinx.lic     ANY     00029         Okay                             Yes             
+v_ccm                      IP:Design_Linking      2013.06 Permanent   Nodelocked              Uncounted License_Type:Design_Linking;ipman,v_ccm,ip,permanent,_0_0_0                                       C:\Xilinx\14.7\ISE_DS\ISE/coregen/core_licenses\Xilinx.lic     ANY     00030         Okay                             Yes             
+v_cfa                      IP:Design_Linking      2013.06 Permanent   Nodelocked              Uncounted License_Type:Design_Linking;ipman,v_cfa,ip,permanent,_0_0_0                                       C:\Xilinx\14.7\ISE_DS\ISE/coregen/core_licenses\Xilinx.lic     ANY     00031         Okay                             Yes             
+v_enhance                  IP:Design_Linking      2013.06 Permanent   Nodelocked              Uncounted License_Type:Design_Linking;ipman,v_enhance,ip,permanent,_0_0_0                                   C:\Xilinx\14.7\ISE_DS\ISE/coregen/core_licenses\Xilinx.lic     ANY     00032         Okay                             Yes             
+v_gamma                    IP:Design_Linking      2013.06 Permanent   Nodelocked              Uncounted License_Type:Design_Linking;ipman,v_gamma,ip,permanent,_0_0_0                                     C:\Xilinx\14.7\ISE_DS\ISE/coregen/core_licenses\Xilinx.lic     ANY     00033         Okay                             Yes             
+v_ic                       IP:Design_Linking      2013.06 Permanent   Nodelocked              Uncounted License_Type:Design_Linking;ipman,v_ic,ip,permanent,_0_0_0                                        C:\Xilinx\14.7\ISE_DS\ISE/coregen/core_licenses\Xilinx.lic     ANY     00034         Okay                             Yes             
+v_manr                     IP:Design_Linking      2013.06 Permanent   Nodelocked              Uncounted License_Type:Design_Linking;ipman,v_manr,ip,permanent,_0_0_0                                      C:\Xilinx\14.7\ISE_DS\ISE/coregen/core_licenses\Xilinx.lic     ANY     00035         Okay                             Yes             
+v_noise                    IP:Design_Linking      2013.06 Permanent   Nodelocked              Uncounted License_Type:Design_Linking;ipman,v_noise,ip,permanent,_0_0_0                                     C:\Xilinx\14.7\ISE_DS\ISE/coregen/core_licenses\Xilinx.lic     ANY     00036         Okay                             Yes             
+v_objseg                   IP:Design_Linking      2013.06 Permanent   Nodelocked              Uncounted License_Type:Design_Linking;ipman,v_objseg,ip,permanent,_0_0_0                                    C:\Xilinx\14.7\ISE_DS\ISE/coregen/core_licenses\Xilinx.lic     ANY     00037         Okay                             Yes             
+v_osd                      IP:Design_Linking      2013.06 Permanent   Nodelocked              Uncounted License_Type:Design_Linking;ipman,v_osd,ip,permanent,_0_0_0                                       C:\Xilinx\14.7\ISE_DS\ISE/coregen/core_licenses\Xilinx.lic     ANY     00038         Okay                             Yes             
+v_scaler                   IP:Design_Linking      2013.06 Permanent   Nodelocked              Uncounted License_Type:Design_Linking;ipman,v_scaler,ip,permanent,_0_0_0                                    C:\Xilinx\14.7\ISE_DS\ISE/coregen/core_licenses\Xilinx.lic     ANY     00039         Okay                             Yes             
+v_smpte2022_56_rx          IP:Design_Linking      2013.06 Permanent   Nodelocked              Uncounted License_Type:Design_Linking;ipman,v_smpte2022_56_rx,ip,permanent,_0_0_0                           C:\Xilinx\14.7\ISE_DS\ISE/coregen/core_licenses\Xilinx.lic     ANY     00040         Okay                             Yes             
+v_smpte2022_56_tx          IP:Design_Linking      2013.06 Permanent   Nodelocked              Uncounted License_Type:Design_Linking;ipman,v_smpte2022_56_tx,ip,permanent,_0_0_0                           C:\Xilinx\14.7\ISE_DS\ISE/coregen/core_licenses\Xilinx.lic     ANY     00041         Okay                             Yes             
+v_spc                      IP:Design_Linking      2013.06 Permanent   Nodelocked              Uncounted License_Type:Design_Linking;ipman,v_spc,ip,permanent,_0_0_0                                       C:\Xilinx\14.7\ISE_DS\ISE/coregen/core_licenses\Xilinx.lic     ANY     00042         Okay                             Yes             
+v_stats                    IP:Design_Linking      2013.06 Permanent   Nodelocked              Uncounted License_Type:Design_Linking;ipman,v_stats,ip,permanent,_0_0_0                                     C:\Xilinx\14.7\ISE_DS\ISE/coregen/core_licenses\Xilinx.lic     ANY     00043         Okay                             Yes             
+v_timebase                 IP:Design_Linking      2013.06 Permanent   Nodelocked              Uncounted License_Type:Design_Linking;ipman,v_timebase,ip,permanent,_0_0_0                                  C:\Xilinx\14.7\ISE_DS\ISE/coregen/core_licenses\Xilinx.lic     ANY     00044         Okay                             Yes             
+v_vdma                     IP:Design_Linking      2013.06 Permanent   Nodelocked              Uncounted License_Type:Design_Linking;ipman,v_vdma,ip,permanent,_0_0_0                                      C:\Xilinx\14.7\ISE_DS\ISE/coregen/core_licenses\Xilinx.lic     ANY     00045         Okay                             Yes             
+ten_gig_eth_pcs_pma        IP:Bought              2012.04 Permanent   Nodelocked              Uncounted License_Type:Bought;ipman,ten_gig_eth_pcs_pma,ip,permanent,_0_0_0                                 C:\Xilinx\14.7\ISE_DS\ISE/coregen/core_licenses\XilinxFree.lic ANY     00046         Okay                             Yes             
+PCIE_BLK_PLUS              IP:Bought              2010.08 Permanent   Nodelocked              Uncounted License_Type:Bought;Xilinx_Free_IP_Core,PCIE_BLK_PLUS,ip,permanent,_ANY                           C:\Xilinx\14.7\ISE_DS\ISE/coregen/core_licenses\XilinxFree.lic ANY     00047         Okay                             Yes             
+PCIE_BLK_PLUS_classic      IP:Bought              2010.08 Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:\Xilinx\14.7\ISE_DS\ISE/coregen/core_licenses\XilinxFree.lic ANY     00048         Okay                             Yes             
+XAUI                       IP:Bought              2010.08 Permanent   Nodelocked              Uncounted License_Type:Bought;Xilinx_Free_IP_Core,XAUI,ip,permanent,_ANY                                    C:\Xilinx\14.7\ISE_DS\ISE/coregen/core_licenses\XilinxFree.lic ANY     00049         Okay                             Yes             
+XAUI_classic               IP:Bought              2010.08 Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:\Xilinx\14.7\ISE_DS\ISE/coregen/core_licenses\XilinxFree.lic ANY     00050         Okay                             Yes             
+RGB2YCRCB                  IP:Bought              2013.10 Permanent   Nodelocked              Uncounted License_Type:Bought;Xilinx_Free_IP_Core,RGB2YCRCB,ip,permanent,_ANY                               C:\Xilinx\14.7\ISE_DS\ISE/coregen/core_licenses\XilinxFree.lic ANY     00051         Okay                             Yes             
+RGB2YCRCB_classic          IP:Bought              2013.10 Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:\Xilinx\14.7\ISE_DS\ISE/coregen/core_licenses\XilinxFree.lic ANY     00052         Okay                             Yes             
+S6_PCIE                    IP:Bought              2010.08 Permanent   Nodelocked              Uncounted License_Type:Bought;Xilinx_Free_IP_Core,S6_PCIE,ip,permanent,_ANY                                 C:\Xilinx\14.7\ISE_DS\ISE/coregen/core_licenses\XilinxFree.lic ANY     00053         Okay                             Yes             
+S6_PCIE_classic            IP:Bought              2010.08 Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:\Xilinx\14.7\ISE_DS\ISE/coregen/core_licenses\XilinxFree.lic ANY     00054         Okay                             Yes             
+TC                         IP:Bought              2013.10 Permanent   Nodelocked              Uncounted License_Type:Bought;Xilinx_Free_IP_Core,TC,ip,permanent,_ANY                                      C:\Xilinx\14.7\ISE_DS\ISE/coregen/core_licenses\XilinxFree.lic ANY     00055         Okay                             Yes             
+TC_classic                 IP:Bought              2013.10 Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:\Xilinx\14.7\ISE_DS\ISE/coregen/core_licenses\XilinxFree.lic ANY     00056         Okay                             Yes             
+TPG                        IP:Bought              2013.10 Permanent   Nodelocked              Uncounted License_Type:Bought;Xilinx_Free_IP_Core,TPG,ip,permanent,_ANY                                     C:\Xilinx\14.7\ISE_DS\ISE/coregen/core_licenses\XilinxFree.lic ANY     00057         Okay                             Yes             
+TPG_classic                IP:Bought              2013.10 Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:\Xilinx\14.7\ISE_DS\ISE/coregen/core_licenses\XilinxFree.lic ANY     00058         Okay                             Yes             
+V4_EMAC                    IP:Bought              2010.08 Permanent   Nodelocked              Uncounted License_Type:Bought;Xilinx_Free_IP_Core,V4_EMAC,ip,permanent,_ANY                                 C:\Xilinx\14.7\ISE_DS\ISE/coregen/core_licenses\XilinxFree.lic ANY     00059         Okay                             Yes             
+V4_EMAC_classic            IP:Bought              2010.08 Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:\Xilinx\14.7\ISE_DS\ISE/coregen/core_licenses\XilinxFree.lic ANY     00060         Okay                             Yes             
+V5_EMAC                    IP:Bought              2010.08 Permanent   Nodelocked              Uncounted License_Type:Bought;Xilinx_Free_IP_Core,V5_EMAC,ip,permanent,_ANY                                 C:\Xilinx\14.7\ISE_DS\ISE/coregen/core_licenses\XilinxFree.lic ANY     00061         Okay                             Yes             
+V5_EMAC_classic            IP:Bought              2010.08 Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:\Xilinx\14.7\ISE_DS\ISE/coregen/core_licenses\XilinxFree.lic ANY     00062         Okay                             Yes             
+V6_EMAC                    IP:Bought              2010.08 Permanent   Nodelocked              Uncounted License_Type:Bought;Xilinx_Free_IP_Core,V6_EMAC,ip,permanent,_ANY                                 C:\Xilinx\14.7\ISE_DS\ISE/coregen/core_licenses\XilinxFree.lic ANY     00063         Okay                             Yes             
+V6_EMAC_classic            IP:Bought              2010.08 Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:\Xilinx\14.7\ISE_DS\ISE/coregen/core_licenses\XilinxFree.lic ANY     00064         Okay                             Yes             
+V6_PCIE                    IP:Bought              2010.08 Permanent   Nodelocked              Uncounted License_Type:Bought;Xilinx_Free_IP_Core,V6_PCIE,ip,permanent,_ANY                                 C:\Xilinx\14.7\ISE_DS\ISE/coregen/core_licenses\XilinxFree.lic ANY     00065         Okay                             Yes             
+V6_PCIE_classic            IP:Bought              2010.08 Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:\Xilinx\14.7\ISE_DS\ISE/coregen/core_licenses\XilinxFree.lic ANY     00066         Okay                             Yes             
+YCRCB2RGB                  IP:Bought              2013.10 Permanent   Nodelocked              Uncounted License_Type:Bought;Xilinx_Free_IP_Core,YCRCB2RGB,ip,permanent,_ANY                               C:\Xilinx\14.7\ISE_DS\ISE/coregen/core_licenses\XilinxFree.lic ANY     00067         Okay                             Yes             
+YCRCB2RGB_classic          IP:Bought              2013.10 Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:\Xilinx\14.7\ISE_DS\ISE/coregen/core_licenses\XilinxFree.lic ANY     00068         Okay                             Yes             
+v_ycrcb2rgb_v2             IP:Bought              2013.10 Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:\Xilinx\14.7\ISE_DS\ISE/coregen/core_licenses\XilinxFree.lic ANY     00069         Okay                             Yes             
+v_ycrcb2rgb                IP:Bought              2013.10 Permanent   Nodelocked              Uncounted License_Type:Bought;Xilinx_Free_IP_Core,YCRCB2RGB,ip,permanent,_ANY                               C:\Xilinx\14.7\ISE_DS\ISE/coregen/core_licenses\XilinxFree.lic ANY     00070         Okay                             Yes             
+v6_pcie_v1                 IP:Bought              2010.08 Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:\Xilinx\14.7\ISE_DS\ISE/coregen/core_licenses\XilinxFree.lic ANY     00071         Okay                             Yes             
+v6_emac_v1                 IP:Bought              2010.08 Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:\Xilinx\14.7\ISE_DS\ISE/coregen/core_licenses\XilinxFree.lic ANY     00072         Okay                             Yes             
+v5_emac_v1                 IP:Bought              2010.08 Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:\Xilinx\14.7\ISE_DS\ISE/coregen/core_licenses\XilinxFree.lic ANY     00073         Okay                             Yes             
+v4_emac_v4                 IP:Bought              2010.08 Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:\Xilinx\14.7\ISE_DS\ISE/coregen/core_licenses\XilinxFree.lic ANY     00074         Okay                             Yes             
+v_tpg_v1                   IP:Bought              2013.10 Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:\Xilinx\14.7\ISE_DS\ISE/coregen/core_licenses\XilinxFree.lic ANY     00075         Okay                             Yes             
+v_tpg                      IP:Bought              2013.10 Permanent   Nodelocked              Uncounted License_Type:Bought;Xilinx_Free_IP_Core,TPG,ip,permanent,_ANY                                     C:\Xilinx\14.7\ISE_DS\ISE/coregen/core_licenses\XilinxFree.lic ANY     00076         Okay                             Yes             
+v_tc_v1                    IP:Bought              2013.10 Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:\Xilinx\14.7\ISE_DS\ISE/coregen/core_licenses\XilinxFree.lic ANY     00077         Okay                             Yes             
+v_tc                       IP:Bought              2013.10 Permanent   Nodelocked              Uncounted License_Type:Bought;Xilinx_Free_IP_Core,TC,ip,permanent,_ANY                                      C:\Xilinx\14.7\ISE_DS\ISE/coregen/core_licenses\XilinxFree.lic ANY     00078         Okay                             Yes             
+s6_pcie_v1                 IP:Bought              2010.08 Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:\Xilinx\14.7\ISE_DS\ISE/coregen/core_licenses\XilinxFree.lic ANY     00079         Okay                             Yes             
+v_rgb2ycrcb_v2             IP:Bought              2013.10 Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:\Xilinx\14.7\ISE_DS\ISE/coregen/core_licenses\XilinxFree.lic ANY     00080         Okay                             Yes             
+v_rgb2ycrcb                IP:Bought              2013.10 Permanent   Nodelocked              Uncounted License_Type:Bought;Xilinx_Free_IP_Core,RGB2YCRCB,ip,permanent,_ANY                               C:\Xilinx\14.7\ISE_DS\ISE/coregen/core_licenses\XilinxFree.lic ANY     00081         Okay                             Yes             
+xaui_v6                    IP:Bought              2010.08 Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:\Xilinx\14.7\ISE_DS\ISE/coregen/core_licenses\XilinxFree.lic ANY     00082         Okay                             Yes             
+xaui_v3_0                  IP:Bought              2010.08 Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:\Xilinx\14.7\ISE_DS\ISE/coregen/core_licenses\XilinxFree.lic ANY     00083         Okay                             Yes             
+xaui_v8                    IP:Bought              2010.08 Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:\Xilinx\14.7\ISE_DS\ISE/coregen/core_licenses\XilinxFree.lic ANY     00084         Okay                             Yes             
+xaui_v5_0                  IP:Bought              2010.08 Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:\Xilinx\14.7\ISE_DS\ISE/coregen/core_licenses\XilinxFree.lic ANY     00085         Okay                             Yes             
+xaui_v7                    IP:Bought              2010.08 Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:\Xilinx\14.7\ISE_DS\ISE/coregen/core_licenses\XilinxFree.lic ANY     00086         Okay                             Yes             
+xaui_v4_0                  IP:Bought              2010.08 Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:\Xilinx\14.7\ISE_DS\ISE/coregen/core_licenses\XilinxFree.lic ANY     00087         Okay                             Yes             
+pcie_blk_plus_v1           IP:Bought              2010.08 Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:\Xilinx\14.7\ISE_DS\ISE/coregen/core_licenses\XilinxFree.lic ANY     00088         Okay                             Yes             
+apu_fpu                    IP:Hardware_Evaluation 2013.06 30-jan-2016 Nodelocked              Uncounted License_Type:Hardware_Evaluation;ipman,apu_fpu,ip,permanent,_0_0_0                                C:\Xilinx\14.7\ISE_DS\EDK/data/core_licenses\Xilinx.lic        ANY     00089         Okay                             Yes             
+apu_fpu_v2                 IP:Hardware_Evaluation 1.0     30-jan-2016 Nodelocked              Uncounted License_Type:Hardware_Evaluation                                                                  C:\Xilinx\14.7\ISE_DS\EDK/data/core_licenses\Xilinx.lic        ANY     00090         Okay                             Yes             
+apu_fpu_virtex5            IP:Hardware_Evaluation 2013.06 30-jan-2016 Nodelocked              Uncounted License_Type:Hardware_Evaluation;ipman,apu_fpu_virtex5,ip,permanent,_0_0_0                        C:\Xilinx\14.7\ISE_DS\EDK/data/core_licenses\Xilinx.lic        ANY     00091         Okay                             Yes             
+apu_fpu_virtex5_v1         IP:Hardware_Evaluation 1.0     30-jan-2016 Nodelocked              Uncounted License_Type:Hardware_Evaluation                                                                  C:\Xilinx\14.7\ISE_DS\EDK/data/core_licenses\Xilinx.lic        ANY     00092         Okay                             Yes             
+axi_can                    IP:Hardware_Evaluation 2013.06 30-jan-2016 Nodelocked              Uncounted License_Type:Hardware_Evaluation;ipman,axi_can,ip,permanent,_0_0_0                                C:\Xilinx\14.7\ISE_DS\EDK/data/core_licenses\Xilinx.lic        ANY     00093         Okay                             Yes             
+axi_ethernet_avb           IP:Hardware_Evaluation 2013.06 30-jan-2016 Nodelocked              Uncounted License_Type:Hardware_Evaluation;ipman,axi_ethernet_avb,ip,permanent,_0_0_0                       C:\Xilinx\14.7\ISE_DS\EDK/data/core_licenses\Xilinx.lic        ANY     00094         Okay                             Yes             
+axi_ethernet_soft_10_100   IP:Hardware_Evaluation 2013.06 30-jan-2016 Nodelocked              Uncounted License_Type:Hardware_Evaluation;ipman,axi_ethernet_soft_10_100,ip,permanent,_0_0_0               C:\Xilinx\14.7\ISE_DS\EDK/data/core_licenses\Xilinx.lic        ANY     00095         Okay                             Yes             
+axi_ethernet_soft_tri_mode IP:Hardware_Evaluation 2013.06 30-jan-2016 Nodelocked              Uncounted License_Type:Hardware_Evaluation;ipman,axi_ethernet_soft_tri_mode,ip,permanent,_0_0_0             C:\Xilinx\14.7\ISE_DS\EDK/data/core_licenses\Xilinx.lic        ANY     00096         Okay                             Yes             
+axi_usb2_device            IP:Hardware_Evaluation 2013.06 30-jan-2016 Nodelocked              Uncounted License_Type:Hardware_Evaluation;ipman,axi_usb2_device,ip,permanent,_0_0_0                        C:\Xilinx\14.7\ISE_DS\EDK/data/core_licenses\Xilinx.lic        ANY     00097         Okay                             Yes             
+plbv46_pci                 IP:Hardware_Evaluation 2013.06 30-jan-2016 Nodelocked              Uncounted License_Type:Hardware_Evaluation;ipman,plbv46_pci,ip,permanent,_0_0_0                             C:\Xilinx\14.7\ISE_DS\EDK/data/core_licenses\Xilinx.lic        ANY     00098         Okay                             Yes             
+plbv46_pci_v1              IP:Hardware_Evaluation 1.0     30-jan-2016 Nodelocked              Uncounted License_Type:Hardware_Evaluation                                                                  C:\Xilinx\14.7\ISE_DS\EDK/data/core_licenses\Xilinx.lic        ANY     00099         Okay                             Yes             
+plbv46_pcie                IP:Hardware_Evaluation 2013.06 30-jan-2016 Nodelocked              Uncounted License_Type:Hardware_Evaluation;ipman,plbv46_pcie,ip,permanent,_0_0_0                            C:\Xilinx\14.7\ISE_DS\EDK/data/core_licenses\Xilinx.lic        ANY     00100         Okay                             Yes             
+plbv46_pcie_v3             IP:Hardware_Evaluation 1.0     30-jan-2016 Nodelocked              Uncounted License_Type:Hardware_Evaluation                                                                  C:\Xilinx\14.7\ISE_DS\EDK/data/core_licenses\Xilinx.lic        ANY     00101         Okay                             Yes             
+soft_temac_wrap            IP:Hardware_Evaluation 2013.06 30-jan-2016 Nodelocked              Uncounted License_Type:Hardware_Evaluation;ipman,soft_temac_wrap,ip,permanent,_0_0_0                        C:\Xilinx\14.7\ISE_DS\EDK/data/core_licenses\Xilinx.lic        ANY     00102         Okay                             Yes             
+soft_temac_wrap_v1         IP:Hardware_Evaluation 1.0     30-jan-2016 Nodelocked              Uncounted License_Type:Hardware_Evaluation                                                                  C:\Xilinx\14.7\ISE_DS\EDK/data/core_licenses\Xilinx.lic        ANY     00103         Okay                             Yes             
+soft_temac_wrap_v2         IP:Hardware_Evaluation 1.0     30-jan-2016 Nodelocked              Uncounted License_Type:Hardware_Evaluation                                                                  C:\Xilinx\14.7\ISE_DS\EDK/data/core_licenses\Xilinx.lic        ANY     00104         Okay                             Yes             
+xps_can                    IP:Design_Linking      2013.06 30-jan-2016 Nodelocked              Uncounted License_Type:Design_Linking;ipman,xps_can,ip,permanent,_0_0_0                                     C:\Xilinx\14.7\ISE_DS\EDK/data/core_licenses\Xilinx.lic        ANY     00105         Okay                             Yes             
+xps_can_v1                 IP:Design_Linking      1.0     30-jan-2016 Nodelocked              Uncounted License_Type:Design_Linking                                                                       C:\Xilinx\14.7\ISE_DS\EDK/data/core_licenses\Xilinx.lic        ANY     00106         Okay                             Yes             
+xps_can_v2                 IP:Design_Linking      1.0     30-jan-2016 Nodelocked              Uncounted License_Type:Design_Linking                                                                       C:\Xilinx\14.7\ISE_DS\EDK/data/core_licenses\Xilinx.lic        ANY     00107         Okay                             Yes             
+xps_ethernetlite           IP:Hardware_Evaluation 2013.06 30-jan-2016 Nodelocked              Uncounted License_Type:Hardware_Evaluation;ipman,xps_ethernetlite,ip,permanent,_0_0_0                       C:\Xilinx\14.7\ISE_DS\EDK/data/core_licenses\Xilinx.lic        ANY     00108         Okay                             Yes             
+xps_ethernetlite_v1        IP:Hardware_Evaluation 1.0     30-jan-2016 Nodelocked              Uncounted License_Type:Hardware_Evaluation                                                                  C:\Xilinx\14.7\ISE_DS\EDK/data/core_licenses\Xilinx.lic        ANY     00109         Okay                             Yes             
+xps_flexray                IP:Hardware_Evaluation 2013.06 30-jan-2016 Nodelocked              Uncounted License_Type:Hardware_Evaluation;ipman,xps_flexray,ip,permanent,_0_0_0                            C:\Xilinx\14.7\ISE_DS\EDK/data/core_licenses\Xilinx.lic        ANY     00110         Okay                             Yes             
+xps_flexray_v1             IP:Hardware_Evaluation 1.0     30-jan-2016 Nodelocked              Uncounted License_Type:Hardware_Evaluation                                                                  C:\Xilinx\14.7\ISE_DS\EDK/data/core_licenses\Xilinx.lic        ANY     00111         Okay                             Yes             
+xps_iic                    IP:Hardware_Evaluation 2013.06 30-jan-2016 Nodelocked              Uncounted License_Type:Hardware_Evaluation;ipman,xps_iic,ip,permanent,_0_0_0                                C:\Xilinx\14.7\ISE_DS\EDK/data/core_licenses\Xilinx.lic        ANY     00112         Okay                             Yes             
+xps_iic_v1                 IP:Hardware_Evaluation 1.0     30-jan-2016 Nodelocked              Uncounted License_Type:Hardware_Evaluation                                                                  C:\Xilinx\14.7\ISE_DS\EDK/data/core_licenses\Xilinx.lic        ANY     00113         Okay                             Yes             
+xps_iic_v2                 IP:Hardware_Evaluation 1.0     30-jan-2016 Nodelocked              Uncounted License_Type:Hardware_Evaluation                                                                  C:\Xilinx\14.7\ISE_DS\EDK/data/core_licenses\Xilinx.lic        ANY     00114         Okay                             Yes             
+xps_ll_temac               IP:Hardware_Evaluation 2013.06 30-jan-2016 Nodelocked              Uncounted License_Type:Hardware_Evaluation;ipman,xps_ll_temac,ip,permanent,_0_0_0                           C:\Xilinx\14.7\ISE_DS\EDK/data/core_licenses\Xilinx.lic        ANY     00115         Okay                             Yes             
+xps_ll_temac_v1            IP:Hardware_Evaluation 1.0     30-jan-2016 Nodelocked              Uncounted License_Type:Hardware_Evaluation                                                                  C:\Xilinx\14.7\ISE_DS\EDK/data/core_licenses\Xilinx.lic        ANY     00116         Okay                             Yes             
+xps_ll_temac_v2            IP:Hardware_Evaluation 1.0     30-jan-2016 Nodelocked              Uncounted License_Type:Hardware_Evaluation                                                                  C:\Xilinx\14.7\ISE_DS\EDK/data/core_licenses\Xilinx.lic        ANY     00117         Okay                             Yes             
+xps_most_nic               IP:Hardware_Evaluation 2013.06 30-jan-2016 Nodelocked              Uncounted License_Type:Hardware_Evaluation;ipman,xps_most_nic,ip,permanent,_0_0_0                           C:\Xilinx\14.7\ISE_DS\EDK/data/core_licenses\Xilinx.lic        ANY     00118         Okay                             Yes             
+xps_most_nic_v1            IP:Hardware_Evaluation 1.0     30-jan-2016 Nodelocked              Uncounted License_Type:Hardware_Evaluation                                                                  C:\Xilinx\14.7\ISE_DS\EDK/data/core_licenses\Xilinx.lic        ANY     00119         Okay                             Yes             
+xps_uart16550              IP:Hardware_Evaluation 2013.06 30-jan-2016 Nodelocked              Uncounted License_Type:Hardware_Evaluation;ipman,xps_uart16550,ip,permanent,_0_0_0                          C:\Xilinx\14.7\ISE_DS\EDK/data/core_licenses\Xilinx.lic        ANY     00120         Okay                             Yes             
+xps_uart16550_v1           IP:Hardware_Evaluation 1.0     30-jan-2016 Nodelocked              Uncounted License_Type:Hardware_Evaluation                                                                  C:\Xilinx\14.7\ISE_DS\EDK/data/core_licenses\Xilinx.lic        ANY     00121         Okay                             Yes             
+xps_usb2_device            IP:Hardware_Evaluation 2013.06 30-jan-2016 Nodelocked              Uncounted License_Type:Hardware_Evaluation;ipman,xps_usb2_device,ip,permanent,_0_0_0                        C:\Xilinx\14.7\ISE_DS\EDK/data/core_licenses\Xilinx.lic        ANY     00122         Okay                             Yes             
+xps_usb2_device_v1         IP:Hardware_Evaluation 1.0     30-jan-2016 Nodelocked              Uncounted License_Type:Hardware_Evaluation                                                                  C:\Xilinx\14.7\ISE_DS\EDK/data/core_licenses\Xilinx.lic        ANY     00123         Okay                             Yes             
+xps_usb2_device_v2         IP:Hardware_Evaluation 1.0     30-jan-2016 Nodelocked              Uncounted License_Type:Hardware_Evaluation                                                                  C:\Xilinx\14.7\ISE_DS\EDK/data/core_licenses\Xilinx.lic        ANY     00124         Okay                             Yes             
+xps_usb_host               IP:Hardware_Evaluation 2013.06 30-jan-2016 Nodelocked              Uncounted License_Type:Hardware_Evaluation;ipman,xps_usb_host,ip,permanent,_0_0_0                           C:\Xilinx\14.7\ISE_DS\EDK/data/core_licenses\Xilinx.lic        ANY     00125         Okay                             Yes             
+xps_usb_host_v1            IP:Hardware_Evaluation 1.0     30-jan-2016 Nodelocked              Uncounted License_Type:Hardware_Evaluation                                                                  C:\Xilinx\14.7\ISE_DS\EDK/data/core_licenses\Xilinx.lic        ANY     00126         Okay                             Yes             
+
+*************************************
+* The version of system dlls called by Xilinx software: 
+*************************************
+File Name:     ADVAPI32.dll
+Dll Version:   6.02.19041.3930
+File Size:     720072
+Create Time:   Mon Feb 05 05:22:58 2024
+Access Time:   Mon Sep 30 04:22:44 2024
+Modified Time: Mon Feb 05 05:22:58 2024
+File Path: C:\Windows\System32\ADVAPI32.dll
+
+File Name:     COMCTL32.dll
+Dll Version:   5.82.19041.3636
+File Size:     703984
+Create Time:   Fri Nov 03 07:47:13 2023
+Access Time:   Mon Sep 30 04:22:43 2024
+Modified Time: Fri Oct 20 09:38:40 2023
+File Path: C:\Windows\WinSxS\amd64_microsoft.windows.common-controls_6595b64144ccf1df_5.82.19041.3636_none_7931fb75243f97c8\COMCTL32.dll
+
+File Name:     comdlg32.dll
+Dll Version:   6.02.19041.3758
+File Size:     858112
+Create Time:   Thu Dec 21 11:46:57 2023
+Access Time:   Thu Sep 26 09:18:45 2024
+Modified Time: Thu Dec 21 11:46:57 2023
+File Path: C:\Windows\System32\COMDLG32.dll
+
+File Name:     CRYPT32.dll
+Dll Version:   6.02.19041.3636
+File Size:     1412624
+Create Time:   Fri Nov 03 07:50:37 2023
+Access Time:   Mon Sep 30 04:22:44 2024
+Modified Time: Fri Nov 03 07:50:37 2023
+File Path: C:\Windows\System32\CRYPT32.dll
+
+File Name:     dbghelp.dll
+Dll Version:   6.02.19041.3636
+File Size:     1866240
+Create Time:   Fri Nov 03 07:50:38 2023
+Access Time:   Mon Sep 30 04:22:44 2024
+Modified Time: Fri Nov 03 07:50:38 2023
+File Path: C:\Windows\system32\dbghelp.dll
+
+File Name:     DCIMAN32.dll
+Dll Version:   6.02.19041.3758
+File Size:     14848
+Create Time:   Thu Dec 21 11:46:57 2023
+Access Time:   Mon Sep 30 04:30:02 2024
+Modified Time: Thu Dec 21 11:46:57 2023
+File Path: C:\Windows\system32\DCIMAN32.dll
+
+File Name:     DDRAW.dll
+Dll Version:   6.02.19041.01
+File Size:     592384
+Create Time:   Sat Dec 07 10:08:52 2019
+Access Time:   Mon Sep 30 04:30:02 2024
+Modified Time: Sat Dec 07 10:08:52 2019
+File Path: C:\Windows\system32\DDRAW.dll
+
+File Name:     GDI32.dll
+Dll Version:   6.02.19041.3636
+File Size:     168464
+Create Time:   Fri Nov 03 07:50:28 2023
+Access Time:   Mon Sep 30 04:22:44 2024
+Modified Time: Fri Nov 03 07:50:28 2023
+File Path: C:\Windows\System32\GDI32.dll
+
+File Name:     GLU32.dll
+Dll Version:   6.02.19041.3636
+File Size:     164352
+Create Time:   Fri Nov 03 07:51:08 2023
+Access Time:   Mon Sep 30 04:30:02 2024
+Modified Time: Fri Nov 03 07:51:08 2023
+File Path: C:\Windows\system32\GLU32.dll
+
+File Name:     IMM32.DLL
+Dll Version:   6.02.19041.3636
+File Size:     186640
+Create Time:   Fri Nov 03 07:50:39 2023
+Access Time:   Mon Sep 30 04:22:45 2024
+Modified Time: Fri Nov 03 07:50:39 2023
+File Path: C:\Windows\System32\IMM32.dll
+
+File Name:     KERNEL32.dll
+Dll Version:   6.02.19041.3636
+File Size:     766664
+Create Time:   Fri Nov 03 07:50:48 2023
+Access Time:   Mon Sep 30 04:22:44 2024
+Modified Time: Fri Nov 03 07:50:48 2023
+File Path: C:\Windows\System32\KERNEL32.DLL
+
+File Name:     LZ32.dll
+Dll Version:   5.00.01.01
+File Size:     3072
+Create Time:   Sat Dec 07 10:08:52 2019
+Access Time:   Mon Sep 30 04:30:02 2024
+Modified Time: Sat Dec 07 10:08:52 2019
+File Path: C:\Windows\system32\LZ32.dll
+
+File Name:     MFC42.DLL
+Dll Version:   6.06.8063.00
+File Size:     1456640
+Create Time:   Fri Nov 03 06:41:55 2023
+Access Time:   Mon Sep 30 04:30:02 2024
+Modified Time: Fri Nov 03 06:41:55 2023
+File Path: C:\Windows\system32\MFC42.DLL
+
+File Name:     MPR.dll
+Dll Version:   6.02.19041.3636
+File Size:     110688
+Create Time:   Fri Nov 03 07:50:39 2023
+Access Time:   Mon Sep 30 04:22:44 2024
+Modified Time: Fri Nov 03 07:50:39 2023
+File Path: C:\Windows\SYSTEM32\MPR.dll
+
+File Name:     MSASN1.dll
+Dll Version:   6.02.19041.3636
+File Size:     65248
+Create Time:   Fri Nov 03 07:50:37 2023
+Access Time:   Mon Sep 30 04:22:45 2024
+Modified Time: Fri Nov 03 07:50:37 2023
+File Path: C:\Windows\SYSTEM32\MSASN1.dll
+
+File Name:     MSVCIRT.dll
+Dll Version:   7.00.19041.01
+File Size:     83968
+Create Time:   Sat Dec 07 10:08:19 2019
+Access Time:   Mon Sep 30 04:30:02 2024
+Modified Time: Sat Dec 07 10:08:19 2019
+File Path: C:\Windows\system32\MSVCIRT.dll
+
+File Name:     MSVCP80.DLL
+Dll Version:   Can't find the specified dll.
+File Size:     
+Create Time:   Access Time:   Modified Time: File Path: 
+
+File Name:     MSVCR71.dll
+Dll Version:   Can't find the specified dll.
+File Size:     
+Create Time:   Access Time:   Modified Time: File Path: 
+
+File Name:     MSVCR80.DLL
+Dll Version:   Can't find the specified dll.
+File Size:     
+Create Time:   Access Time:   Modified Time: File Path: 
+
+File Name:     MSVCRT.dll
+Dll Version:   7.00.19041.3636
+File Size:     638552
+Create Time:   Fri Nov 03 07:50:38 2023
+Access Time:   Mon Sep 30 04:22:44 2024
+Modified Time: Fri Nov 03 07:50:38 2023
+File Path: C:\Windows\System32\msvcrt.dll
+
+File Name:     NETAPI32.dll
+Dll Version:   6.02.19041.3636
+File Size:     89024
+Create Time:   Fri Nov 03 07:50:31 2023
+Access Time:   Mon Sep 30 04:22:45 2024
+Modified Time: Fri Nov 03 07:50:31 2023
+File Path: C:\Windows\SYSTEM32\NETAPI32.dll
+
+File Name:     NETRAP.dll
+Dll Version:   Can't find the specified dll.
+File Size:     
+Create Time:   Access Time:   Modified Time: File Path: 
+
+File Name:     ntdll.dll
+Dll Version:   6.02.19041.3636
+File Size:     2029096
+Create Time:   Fri Nov 03 07:50:39 2023
+Access Time:   Thu Sep 26 11:08:20 2024
+Modified Time: Fri Nov 03 07:50:39 2023
+File Path: C:\Windows\SYSTEM32\ntdll.dll
+
+File Name:     ole32.dll
+Dll Version:   6.02.19041.3636
+File Size:     1216936
+Create Time:   Fri Nov 03 07:50:36 2023
+Access Time:   Mon Sep 30 04:22:45 2024
+Modified Time: Fri Nov 03 07:50:36 2023
+File Path: C:\Windows\System32\ole32.dll
+
+File Name:     OLEAUT32.dll
+Dll Version:   6.02.19041.3636
+File Size:     833136
+Create Time:   Fri Nov 03 07:50:38 2023
+Access Time:   Mon Sep 30 04:22:44 2024
+Modified Time: Fri Nov 03 07:50:38 2023
+File Path: C:\Windows\System32\OLEAUT32.dll
+
+File Name:     oledlg.dll
+Dll Version:   6.02.19041.3636
+File Size:     210432
+Create Time:   Fri Nov 03 07:50:36 2023
+Access Time:   Mon Sep 30 04:30:02 2024
+Modified Time: Fri Nov 03 07:50:36 2023
+File Path: C:\Windows\system32\oledlg.dll
+
+File Name:     OPENGL32.dll
+Dll Version:   6.02.19041.3636
+File Size:     1061888
+Create Time:   Fri Nov 03 07:51:08 2023
+Access Time:   Mon Sep 30 04:30:02 2024
+Modified Time: Fri Nov 03 07:51:08 2023
+File Path: C:\Windows\system32\OPENGL32.dll
+
+File Name:     RPCRT4.dll
+Dll Version:   6.02.19041.3758
+File Size:     1200944
+Create Time:   Thu Dec 21 11:46:57 2023
+Access Time:   Mon Sep 30 04:22:44 2024
+Modified Time: Thu Dec 21 11:46:57 2023
+File Path: C:\Windows\System32\RPCRT4.dll
+
+File Name:     SAMLIB.dll
+Dll Version:   6.02.19041.3636
+File Size:     143360
+Create Time:   Fri Nov 03 07:50:37 2023
+Access Time:   Mon Sep 30 04:22:44 2024
+Modified Time: Fri Nov 03 07:50:37 2023
+File Path: C:\Windows\system32\SAMLIB.dll
+
+File Name:     SECUR32.DLL
+Dll Version:   6.02.19041.3636
+File Size:     28672
+Create Time:   Fri Nov 03 07:50:46 2023
+Access Time:   Mon Sep 30 04:22:44 2024
+Modified Time: Fri Nov 03 07:50:46 2023
+File Path: C:\Windows\system32\SECUR32.DLL
+
+File Name:     SETUPAPI.dll
+Dll Version:   6.02.19041.3636
+File Size:     4674872
+Create Time:   Fri Nov 03 07:50:46 2023
+Access Time:   Mon Sep 30 04:22:44 2024
+Modified Time: Fri Nov 03 07:50:46 2023
+File Path: C:\Windows\system32\SETUPAPI.dll
+
+File Name:     SHELL32.dll
+Dll Version:   6.02.19041.3930
+File Size:     7653056
+Create Time:   Mon Feb 05 05:23:00 2024
+Access Time:   Mon Sep 30 04:22:44 2024
+Modified Time: Mon Feb 05 05:23:00 2024
+File Path: C:\Windows\System32\SHELL32.dll
+
+File Name:     SHLWAPI.DLL
+Dll Version:   6.02.19041.3636
+File Size:     343496
+Create Time:   Fri Nov 03 07:50:40 2023
+Access Time:   Mon Sep 30 04:22:44 2024
+Modified Time: Fri Nov 03 07:50:40 2023
+File Path: C:\Windows\System32\SHLWAPI.dll
+
+File Name:     SNMPAPI.DLL
+Dll Version:   6.02.19041.01
+File Size:     33792
+Create Time:   Sat Dec 07 10:09:34 2019
+Access Time:   Mon Sep 30 04:30:01 2024
+Modified Time: Sat Dec 07 10:09:34 2019
+File Path: C:\Windows\SYSTEM32\snmpapi.dll
+
+File Name:     urlmon.dll
+Dll Version:   11.00.19041.3758
+File Size:     1951744
+Create Time:   Thu Dec 21 11:46:58 2023
+Access Time:   Mon Sep 30 04:22:45 2024
+Modified Time: Thu Dec 21 11:46:58 2023
+File Path: C:\Windows\system32\urlmon.dll
+
+File Name:     USER32.dll
+Dll Version:   6.02.19041.3636
+File Size:     1698912
+Create Time:   Fri Nov 03 07:50:31 2023
+Access Time:   Mon Sep 30 04:22:44 2024
+Modified Time: Fri Nov 03 07:50:31 2023
+File Path: C:\Windows\System32\USER32.dll
+
+File Name:     VERSION.dll
+Dll Version:   6.02.19041.3636
+File Size:     32584
+Create Time:   Fri Nov 03 07:50:40 2023
+Access Time:   Mon Sep 30 04:22:44 2024
+Modified Time: Fri Nov 03 07:50:40 2023
+File Path: C:\Windows\SYSTEM32\VERSION.dll
+
+File Name:     WINHTTP.dll
+Dll Version:   6.02.19041.3636
+File Size:     1088896
+Create Time:   Fri Nov 03 07:50:38 2023
+Access Time:   Mon Sep 30 04:22:45 2024
+Modified Time: Fri Nov 03 07:50:38 2023
+File Path: C:\Windows\system32\WINHTTP.dll
+
+File Name:     WININET.dll
+Dll Version:   11.00.19041.3636
+File Size:     5039616
+Create Time:   Fri Nov 03 07:50:43 2023
+Access Time:   Mon Sep 30 04:22:45 2024
+Modified Time: Fri Nov 03 07:50:43 2023
+File Path: C:\Windows\system32\WININET.dll
+
+File Name:     WINMM.DLL
+Dll Version:   6.02.19041.3636
+File Size:     148376
+Create Time:   Fri Nov 03 07:50:15 2023
+Access Time:   Mon Sep 30 04:22:45 2024
+Modified Time: Fri Nov 03 07:50:15 2023
+File Path: C:\Windows\SYSTEM32\WINMM.dll
+
+File Name:     WINSPOOL.DRV
+Dll Version:   6.02.19041.3693
+File Size:     653824
+Create Time:   Thu Dec 21 11:46:49 2023
+Access Time:   Mon Sep 30 04:27:54 2024
+Modified Time: Thu Dec 21 11:46:49 2023
+File Path: C:\Windows\SYSTEM32\WINSPOOL.DRV
+
+File Name:     WS2HELP.dll
+Dll Version:   6.02.19041.01
+File Size:     4608
+Create Time:   Sat Dec 07 10:08:41 2019
+Access Time:   Mon Sep 30 04:30:02 2024
+Modified Time: Sat Dec 07 10:08:41 2019
+File Path: C:\Windows\system32\WS2HELP.dll
+
+File Name:     WS2_32.dll
+Dll Version:   6.02.19041.3636
+File Size:     429408
+Create Time:   Fri Nov 03 07:50:39 2023
+Access Time:   Mon Sep 30 04:22:44 2024
+Modified Time: Fri Nov 03 07:50:39 2023
+File Path: C:\Windows\System32\WS2_32.dll
+
+File Name:     WSOCK32.dll
+Dll Version:   6.02.19041.01
+File Size:     18944
+Create Time:   Sat Dec 07 10:08:41 2019
+Access Time:   Mon Sep 30 04:28:02 2024
+Modified Time: Sat Dec 07 10:08:41 2019
+File Path: C:\Windows\SYSTEM32\WSOCK32.dll
+
